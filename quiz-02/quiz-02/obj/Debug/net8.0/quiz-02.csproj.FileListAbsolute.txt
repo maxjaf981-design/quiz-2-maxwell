@@ -1,0 +1,14 @@
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\obj\Debug\net8.0\quiz-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\obj\Debug\net8.0\quiz-02.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\obj\Debug\net8.0\quiz-02.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\obj\Debug\net8.0\quiz-02.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\bin\Debug\net8.0\quiz-02.exe
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\bin\Debug\net8.0\quiz-02.deps.json
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\bin\Debug\net8.0\quiz-02.runtimeconfig.json
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\bin\Debug\net8.0\quiz-02.dll
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\bin\Debug\net8.0\quiz-02.pdb
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\obj\Debug\net8.0\quiz-02.dll
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\obj\Debug\net8.0\refint\quiz-02.dll
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\obj\Debug\net8.0\quiz-02.pdb
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\obj\Debug\net8.0\quiz-02.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\quiz-02\quiz-02\obj\Debug\net8.0\ref\quiz-02.dll
